@@ -1,4 +1,6 @@
-The following resume has the objective of expressing the main topics of my studies and the exams I challenged during my career
+The following resume has the objective of expressing the main topics of my studies and the exams I challenged during my career.
+
+During the following courses, in mostly of the cases I've managed to develop course projects which involves coding and approaching to several technologies.
 
 | Exam | Description |
 | --- | --- |
